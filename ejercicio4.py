@@ -62,5 +62,3 @@ def main():
     # Desplegar los resultados por pantalla
     generar_reporte(informe_calculado)
 
-if __name__ == "__main__":
-    main()
